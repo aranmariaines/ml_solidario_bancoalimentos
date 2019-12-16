@@ -1,4 +1,6 @@
 id,reviewable_object,date_created,status,title,content,rate,valorization,likes,dislikes,reviewer_id,buying_date,relevance,forbidden_words
+51234487,"{'id': 'MLA817802367', 'type': 'item'}",2019-12-10T18:34:38Z,published,Muy bueno,Muy buen producto. Voy a seguir comprando.,4,0,0,0,363945675,2019-11-26T04:00:00Z,7,0
+51214627,"{'id': 'MLA817798362', 'type': 'item'}",2019-12-10T15:31:06Z,published,Excelente,"Excelente producto, excelente iniciativa.",5,0,0,0,40328246,2019-11-25T04:00:00Z,4,0
 50507417,"{'id': 'MLA817804577', 'type': 'item'}",2019-12-01T02:14:33Z,published,Excelent iniciativa,"Buenísima idea!!! que más gente se una, no puede existir el hambre en nuestro país!!.",5,0,0,0,259456243,2019-11-29T04:00:00Z,15,0
 50255941,"{'id': 'MLA817804577', 'type': 'item'}",2019-11-27T21:18:51Z,published,Excelente,Hace bien al corazón! lo recomiendo! éxitos!!.,5,0,0,0,3011712,2019-11-26T04:00:00Z,7,0
 51008465,"{'id': 'MLA817805783', 'type': 'item'}",2019-12-07T13:53:46Z,published,Excelente iniciativa,"Excelente iniciativa, una buena idea para colaborar.",5,0,0,0,125859532,2019-11-30T04:00:00Z,7,0
