@@ -6,6 +6,7 @@ Full post can be found here: [Social Data Tech](https://socialdatatech.com/onlin
 
 ## How to get data using Mercado Libre API
 All the data is downloaded using Mercado Libre API. They provide public and private data. 
+
 For the public data, you do not need any credentials. And this is the case for most of the data used in this analysis.
 For private data such as questions and answers for items, an Access Token is required. 
 [Follow this steps](https://developers.mercadolibre.com.ar/es_ar/autenticacion-y-autorizacion/)
